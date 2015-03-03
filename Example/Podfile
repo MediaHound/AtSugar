@@ -1,0 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+
+target 'AtSugar', :exclusive => true do
+  pod "AtSugar", :path => "../"
+
+  
+end

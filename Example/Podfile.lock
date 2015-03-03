@@ -1,0 +1,14 @@
+PODS:
+  - AtSugar (0.1.0)
+
+DEPENDENCIES:
+  - AtSugar (from `../`)
+
+EXTERNAL SOURCES:
+  AtSugar:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AtSugar: 06d1f51bf7f1df65f61c650d00114fa84dc61bdd
+
+COCOAPODS: 0.36.0.rc.1
