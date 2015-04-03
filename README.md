@@ -1,6 +1,10 @@
 # AtSugar
 
-AtSugar gives a little syntax sugar to your `@` sign. Here's a whirlwind tour of what AtSugar adds:
+AtSugar gives a little syntax sugar to your `@` sign.
+
+For more background and a deeper dive into AtSugar, check out the [introductory blog post](http://www.dbachrach.com/posts/atsugar-sugar-for-your-at).
+
+Here's a whirlwind tour of what AtSugar adds:
 
 ```objc
 #import <AtSugar/AtSugar.h> // You can put this in your *.pch
