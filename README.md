@@ -76,7 +76,7 @@ Dig into the header files to see what else AtSugar can do!
 AtSugar is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
-    pod "AtSugar", :git => "https://github.com/MediaHound/AtSugar.git"
+    pod "AtSugar"
 
 ## Author
 
