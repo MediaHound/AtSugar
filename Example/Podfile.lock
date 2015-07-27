@@ -6,9 +6,9 @@ DEPENDENCIES:
 
 EXTERNAL SOURCES:
   AtSugar:
-    :path: ../
+    :path: "../"
 
 SPEC CHECKSUMS:
-  AtSugar: 06d1f51bf7f1df65f61c650d00114fa84dc61bdd
+  AtSugar: 9edc386fe4060f77eb93dfe9e258981e90a5abcf
 
-COCOAPODS: 0.36.0.rc.1
+COCOAPODS: 0.38.2
